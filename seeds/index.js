@@ -33,7 +33,7 @@ const seedDB=async()=>{
         },
         images:[
             {
-              url: 'https://res.cloudinary.com/dbxzyibfs/image/upload/v1668249756/YelpCamp/cjtygokd3bwlrvpebqxd.jpg',
+              url: 'https://images.unsplash.com/photo-1667210621904-07bfc2676c6b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDk2fHhIeFlUTUhMZ09jfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60',
               filename: 'YelpCamp/cjtygokd3bwlrvpebqxd',
              
             },
